@@ -30,6 +30,10 @@ When you and your peers need assistance, you must ask each other or the teacher 
 
 I look forward to learning more about chemicals and their purpose.
 
-[Next](entry02.md)
+https://github.com/sammyl4231/sep10-freedom-project/edit/main/blog/entry01.md
 
-[Home](../README.md)
+---
+
+# Entry 2: Fitness, staying active
+
+##### 10/24/23
