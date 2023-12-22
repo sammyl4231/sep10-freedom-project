@@ -5,11 +5,13 @@
 
 Context: What is Chemistry?
 
-Chemistry is the study of the science of chemicals.
-Chemistry has been used on Earth for thousands of years.
-Have you ever wondered what Chemistry is and what it can do?
-Reading this will help you understand the story of Chemistry and its usages, followed by gadgets that use it and are powered by it.
+-Chemistry is the study of the science of chemicals.
 
+-Chemistry has been used on Earth for thousands of years.
+
+-Have you ever wondered what Chemistry is and what it can do?
+
+-Reading this will help you understand the story of Chemistry and its usages, followed by gadgets that use it and are powered by it.
 
 Tools being used throughout the decades:
 Chemists use a compressor: 
