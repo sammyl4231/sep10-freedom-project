@@ -45,7 +45,7 @@ Adsorptions are concentrations in fluid phase and solid adsorbent change overtim
 Chemists use an agitated vessel: 
 1951
 
-[Overview](https://www.mdpi.com/2227-9717/9/3/468#:~:text=Agitated%20vessels%20(or%20mechanically%20stirred,such%20as%20anaerobic%20digestion%20process.)
+[Overview](https://www.mdpi.com/2227-9717/9/3/468#:~:text=Agitated%20vessels%20or%20mechanically%20stirred,such%20as%20anaerobic%20digestion%20process)
 [Image](https://img2.exportersindia.com/product_images/bc-full/2020/1/603624/agitated-vessel-1579079732-5255255.jpeg)
 
 Agitated vessels exchange heat and are mostly used in lots of chemical and biochemical process industries
