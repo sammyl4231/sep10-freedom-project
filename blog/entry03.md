@@ -60,6 +60,7 @@ Chemists use a centrifuge:
 1864
 
 [Overview](https://en.wikipedia.org/wiki/Centrifuge)
+
 [Image](SCL302.jpg)
 
 Centrifuges apply a sustained centrifugal force - due to rotation
