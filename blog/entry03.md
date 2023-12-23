@@ -68,3 +68,5 @@ Chemists use a centrifuge:
 Centrifuges apply a sustained centrifugal force - due to rotation
 
 Centrifuges are used to separate liquids/fluids and gases, depending on their density
+
+## Brainstorming Possible Solutions
