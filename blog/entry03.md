@@ -69,4 +69,6 @@ Centrifuges apply a sustained centrifugal force - due to rotation
 
 Centrifuges are used to separate liquids/fluids and gases, depending on their density
 
-## Brainstorming Possible Solutions
+## Brainstorming Possible Solutions (future technologies)
+
+Technology can sometimes be used in chemistry. Technology in chemistry is used to power electric gadgets like cars. Technology can be used in chemistry by using electronic devices to measure and do experiments. For example, a tool called a hotplate can be used to form chemical reactions to heat samples, culturing cells, chemical synthesis, sample preparation, etc. Usually technology in chemistry is used to heat up elements and samples
