@@ -13,9 +13,13 @@ I learned from CSS Flexbox that the flex container properties are flex-direction
 
 The CSS Flex Items consist of Child Elements, used to automatically make a flex container flexible. The properties are order, flex-grow, flex-shrink, flex-basics, flex, and align-self. Order specifies the arrangement of flex items in a container. Flex-grow specifies how much a flex item grows compared to the rest. Flex-shrink does the opposite, flex items will look smaller compared to the rest. Flex-basis specifies the initial length of an item. Align-self specifies the alignment for the selected item in the container and overrides the alignment set by align-items.
 
-X/X/X:
-* Text
 
+3/12/24:
+* [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox_responsive.asp)
+
+One more thing I learned in CSS Flexbox is CSS Flex Responsive. For this one, CSS Media Queries are involved to create different layouts for a certain screen or device type. Horizontal for certain computer types, and vertical for phones and tablets. If you want to create 1 or 2 column layouts, you can change the flex-direction from row to column at a specific breakpoint. You can also change the % of theflex property of the flex items to create different layouts depending on the screen size. You must use flex-wrap: wrap; on the flex container in order for the code to work.
+
+Flexbox can also be used for creating image galleries between 2 or 4 images full-width images wide, depending on the device you use. Flexbox can be used for creating responsive websites, with flexible navigations or content.
 
 <!--
 * Links you used today (websites, videos, etc)
