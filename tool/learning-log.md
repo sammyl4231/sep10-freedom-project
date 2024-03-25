@@ -13,11 +13,13 @@ I learned from CSS Flexbox that the flex container properties are flex-direction
 
 To create a flex container:
 
+```HTML
 <div class="flex-container">
   <div>1</div>
   <div>2</div>
   <div>3</div>
 </div>
+```
 
 3/12/24:
 * [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox_responsive.asp)
@@ -28,6 +30,7 @@ Flexbox can also be used for creating image galleries between 2 or 4 images full
 
 Media Queries:
 
+```CSS
 .flex-container {
   display: flex;
   flex-direction: row;
@@ -39,6 +42,7 @@ Media Queries:
     flex-direction: column;
   }
 }
+```
 
 3/22/24
 * [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox_items.asp)
