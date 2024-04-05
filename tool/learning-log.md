@@ -59,6 +59,14 @@ Another CSS tool is CSS Responsive. This CSS tool makes your weboages look clear
 
 This is called responsive because you use CSS and HTML to resize, hide, shrink, enlarge, or adjust and move content to make it clear regardless of the screen type.
 
+4/5/24
+
+[CSS Grid](https://www.w3schools.com/css/css_grid.asp)
+
+A final CSS tool I learned is CSS Grid. With this tool, you can design webpages without floats or positioning. They consist of columns and rows, are supported in all types of browsers, and consist of parent and child elements. It becomes a grid container when you set the display to grid or inline-grid. Child elements of a grid container become grid items and form columns, rows, and gaps. These 3 parts of a grid can be set using the properties column-gap, row-gap, and gap. There can also be grid lines, you use the properties grid-row-start, grid-row-end, grid-column-start, and grid-column-end.
+
+These can also be used to make grid templates. They're the shorthand property for grid template columns, rows, and areas properties.
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
