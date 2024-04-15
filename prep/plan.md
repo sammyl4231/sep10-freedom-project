@@ -10,7 +10,9 @@
 * `#fcfcfc` (Title color)
 
 ## Fonts
-* [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+* [Open Sans](https://fonts.google.com/specimen/Open+Sans) (Text overview font)
+* [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue) (Title font)
+* [Abel](https://fonts.google.com/specimen/Abel) ("Contact us" font)
 
 ## Timeline
 
