@@ -25,7 +25,7 @@ Chemistry is the study of chemicals. It is used everyday in our lives for certai
 
 ## Timeline
 
-Chemistry has been around from the 16th-17th centuries. Over the centuries, many builders have constructed many devices that are being used throughout history and today. These machines have supplied us with our needs and 
+Chemistry has been around from the 16th-17th centuries. Over the centuries, many builders have constructed many devices that are being used throughout history and today. These machines have supplied us with our needs and have really changed things throughout history.
 
 #### History of Chemistry and inventions
 
