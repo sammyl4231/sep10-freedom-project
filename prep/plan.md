@@ -65,10 +65,13 @@ Chemistry has been around from the 16th-17th centuries. Over the centuries, many
 
 #### MVP
 
-* Task/Timeline
+* I can find which bootstrap component I would like to use to start setting up my website
+* I can start coding in cs50.dev
+* I can change the colors and fonts of the text
+* I can add the images and information
 
 ---
 
 #### Beyond MVP
 
-* Task
+Not sure if I'll do this after May 1.
