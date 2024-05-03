@@ -167,7 +167,7 @@ Accordion
 
 ### Engineering Design Process
 
-My problems were trying to create a fourth accordion or carousel item. I used carousel at first, but it didn't work out as I expected. But then I finally figured it out and solved my issue. Not fully, but I don't really mind it. It technically worked. Another issue I ran into was uploading the preview. I tried asking on slack, but I didn't get the right assistance. I couldn't submit the right github link to the preview, so submitted a psychic-lamp link, which then stopped working shortly.
+My problems were trying to create a fourth accordion or carousel item. The problem(s) I defined was carousel at first, but it didn't work out as I expected. Another issue I defined was uploading the preview. I also couldn't submit the right github link to the preview. I tried asking on slack to resolve my problem, but I didn't get the right assistance and I was still confused. So I didin't really find an answer. So the most promising solution that was best for me was to just submit the psychic-lamp link of the preview, even though its server stops working after a short amount of time. My next step starting the upcoming Monday, 5/6/24, my classmates and I will be evaluating on each others' custom websites. We'll give each other feedback and go over the basics of our websites.
 
 ### Skills
 
