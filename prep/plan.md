@@ -74,4 +74,6 @@ Chemistry has been around from the 16th-17th centuries. Over the centuries, many
 
 #### Beyond MVP
 
-Not sure if I'll do this after May 1.
+Change the colors of the accordions
+
+Add more images
