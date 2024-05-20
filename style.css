@@ -18,8 +18,16 @@ p {
   font-size: 20px;
 }
 
+
 .carousel {
   width: 600px;
   height: 600px;
   margin: auto;
+}
+
+
+.card {
+  width: 600px;
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
 }
