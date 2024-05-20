@@ -1,16 +1,14 @@
 title {
-  color: #04ff00;
   font-family: monospace;
   font-weight: bold;
   font-size: 50px;
 }
-#card{
-  text align center;
-}
+
 
 body {
   background-color: skyblue;
 }
+
 
 p {
   color: #18db02
@@ -30,4 +28,8 @@ p {
   width: 600px;
   margin: 0 auto; /* Added */
   float: none; /* Added */
+}
+
+#card {
+  text align center;
 }
