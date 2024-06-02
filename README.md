@@ -1,24 +1,30 @@
 # SEP10 Freedom Project
-by **X**
+by **Samantha Lee**
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**. 
+For my project, I chose the topic of **Chemistry**. 
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make by website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **Chemistry** in order to help me make by website.
 
 ## Links
 
-[Product]()
+[Product](https://sammyl4231.github.io/sep10-freedom-project/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1sRNbAjOSi28nGCysF9LI3-UKwhzUebYGTsW0i4C6cBs/edit#slide=id.p)
 
 ## Implications
 ##### PROS
-* 
+* People got to see my project and software skills
+* People learned about chemistry
+* I got to resolve my issues
+
+
 ##### CONS
-* 
+* I was shy about sharing
+* I had many issues with coding
+* My issues were hard to resolve
 
 
 ## Blog
